@@ -1,4 +1,4 @@
-*buni project*
+*university project*
 
 
 assets:
